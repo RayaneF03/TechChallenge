@@ -43,20 +43,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/DS2/Documents/I4DS/TechChallenge/TechChallenge/Views/TechControllers/About.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVjaENvbnRyb2xsZXJzL0Fib3V0LmNzaHRtbA==
+[/Users/DS2/Documents/I4DS/TechChallenge/TechChallenge/Views/Tech/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVjaC9BYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/DS2/Documents/I4DS/TechChallenge/TechChallenge/Views/TechControllers/Contact.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVjaENvbnRyb2xsZXJzL0NvbnRhY3QuY3NodG1s
+[/Users/DS2/Documents/I4DS/TechChallenge/TechChallenge/Views/Tech/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVjaC9Db250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/DS2/Documents/I4DS/TechChallenge/TechChallenge/Views/TechControllers/Dashboard.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVjaENvbnRyb2xsZXJzL0Rhc2hib2FyZC5jc2h0bWw=
+[/Users/DS2/Documents/I4DS/TechChallenge/TechChallenge/Views/Tech/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVjaC9EYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/DS2/Documents/I4DS/TechChallenge/TechChallenge/Views/TechControllers/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVjaENvbnRyb2xsZXJzL0luZGV4LmNzaHRtbA==
+[/Users/DS2/Documents/I4DS/TechChallenge/TechChallenge/Views/Tech/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVjaC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/DS2/Documents/I4DS/TechChallenge/TechChallenge/Views/_ViewImports.cshtml]

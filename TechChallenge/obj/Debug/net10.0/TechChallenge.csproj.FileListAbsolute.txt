@@ -191,4 +191,5 @@
 /Users/DS2/Documents/I4DS/TechChallenge/TechChallenge/obj/Debug/net10.0/TechChallenge.pdb
 /Users/DS2/Documents/I4DS/TechChallenge/TechChallenge/obj/Debug/net10.0/TechChallenge.genruntimeconfig.cache
 /Users/DS2/Documents/I4DS/TechChallenge/TechChallenge/obj/Debug/net10.0/ref/TechChallenge.dll
-/Users/DS2/Documents/I4DS/TechChallenge/TechChallenge/obj/Debug/net10.0/compressed/ytlfsu4i3q-{0}-z42ei0pfy5-z42ei0pfy5.gz
+/Users/DS2/Documents/I4DS/TechChallenge/TechChallenge/obj/Debug/net10.0/TechChallenge.sourcelink.json
+/Users/DS2/Documents/I4DS/TechChallenge/TechChallenge/obj/Debug/net10.0/compressed/ytlfsu4i3q-{0}-wm8vr3vuwf-wm8vr3vuwf.gz

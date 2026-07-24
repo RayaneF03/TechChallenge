@@ -1,0 +1,7 @@
+/Users/DS2/Documents/I4DS/TechChallenge/TechChallenge/bin/Release/net10.0/publish/TechChallenge
+/Users/DS2/Documents/I4DS/TechChallenge/TechChallenge/bin/Release/net10.0/publish/appsettings.Development.json
+/Users/DS2/Documents/I4DS/TechChallenge/TechChallenge/bin/Release/net10.0/publish/appsettings.json
+/Users/DS2/Documents/I4DS/TechChallenge/TechChallenge/bin/Release/net10.0/publish/TechChallenge.dll
+/Users/DS2/Documents/I4DS/TechChallenge/TechChallenge/bin/Release/net10.0/publish/TechChallenge.deps.json
+/Users/DS2/Documents/I4DS/TechChallenge/TechChallenge/bin/Release/net10.0/publish/TechChallenge.runtimeconfig.json
+/Users/DS2/Documents/I4DS/TechChallenge/TechChallenge/bin/Release/net10.0/publish/TechChallenge.pdb

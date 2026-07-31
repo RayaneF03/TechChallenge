@@ -59,6 +59,7 @@ namespace TechChallenge.Controllers
             {
                 _context.Add(aluno);
                 await _context.SaveChangesAsync();
+                TempData["Success"] = "Aluno(a) Cadastrado";
                 return RedirectToAction(nameof(Index));
             }
             return View(aluno);
@@ -97,6 +98,7 @@ namespace TechChallenge.Controllers
                 try
                 {
                     _context.Update(aluno);
+                     TempData["Success"] = "Aluno(a) Atualizado";
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
@@ -145,6 +147,7 @@ namespace TechChallenge.Controllers
             }
 
             await _context.SaveChangesAsync();
+             TempData["Success"] = "Aluno(a) Removido";
             return RedirectToAction(nameof(Index));
         }
 
